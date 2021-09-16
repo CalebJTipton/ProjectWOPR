@@ -1,4 +1,4 @@
-# ProjectWOPR
+# ProjectWOPR - "Puzzle Cube"
 
 What it is:
 A box that opens (using an Aurdino) when you complete a game of Tic Tac Toe styled after War Games in Python.
